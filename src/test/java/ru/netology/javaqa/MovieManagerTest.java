@@ -6,8 +6,6 @@ import org.mockito.Mockito;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 
-
-
 public class MovieManagerTest {
     @Test
     public void shouldAddMovie() {
